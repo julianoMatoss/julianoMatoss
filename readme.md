@@ -17,7 +17,7 @@ Meu perfil profissional no Github
 <h3 align="left">🚀 Habilidades Principais</h3>
 <p align="left">Fazem parte do meu dia a dia como desenvolvedor, ou já utilizei  em outras experiências profissionais e projetos pessoais. </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,Python,react,redux,next,tailwind,styledcomponents,figma,git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,dotnet,react,redux,next,tailwind,styledcomponents,figma,git,github,gitlab)](https://skillicons.dev)
 
 <h3 align="left">🌐 Conhecimentos Adicionais</h3>
 <p align="left">Tive bastante contato tambem com algumas tecnologias de Back-End para entender o funcionamento e integração entre as camadas da aplicação. </p>
